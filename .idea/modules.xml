@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ahorcado.iml" filepath="$PROJECT_DIR$/Ahorcado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-ahorcado.iml" filepath="$PROJECT_DIR$/android-ahorcado.iml" group="android-ahorcado" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-ahorcado-app.iml" filepath="$PROJECT_DIR$/app/android-ahorcado-app.iml" group="android-ahorcado/app" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_feature/android-ahorcado-dynamic_feature.iml" filepath="$PROJECT_DIR$/dynamic_feature/android-ahorcado-dynamic_feature.iml" group="android-ahorcado/dynamic_feature" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_feature/dynamic_feature.iml" filepath="$PROJECT_DIR$/dynamic_feature/dynamic_feature.iml" />
+    </modules>
+  </component>
+</project>
